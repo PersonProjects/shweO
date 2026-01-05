@@ -1,0 +1,1 @@
+export type TopbarContext = 'public' | 'event' | 'org' | 'account'

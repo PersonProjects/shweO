@@ -1,0 +1,32 @@
+{
+  "common": {
+    "home": "หน้าแรก",
+    "users": "ผู้ใช้งาน",
+    "login": "เข้าสู่ระบบ",
+    "logout": "ออกจากระบบ",
+    "settings": "การตั้งค่า",
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "help": "ช่วยเหลือ",
+    "location": "สถานที่",
+    "quickActions": "การดำเนินการด่วน",
+    "appSettings": "การตั้งค่าแอป",
+    "accountSettings": "การตั้งค่าบัญชี"
+  },
+  "nav": {
+    "home": "หน้าแรก",
+    "profile": "โปรไฟล์",
+    "users": "ผู้ใช้งาน",
+    "orgDashboard": "แดชบอร์ด",
+    "createEvent": "สร้างอีเวนต์",
+    "createPaidEvent": "สร้างอีเวนต์แบบชำระเงิน",
+    "orgSettings": "การตั้งค่าองค์กร",
+    "myEvents": "อีเวนต์ของฉัน",
+    "favorites": "รายการโปรด",
+    "tickets": "ตั๋ว",
+    "orgEvents": "อีเวนต์"
+  },
+  "search": {
+    "placeholder": "ค้นหาอีเวนต์"
+  }
+}
